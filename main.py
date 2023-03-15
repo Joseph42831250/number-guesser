@@ -18,6 +18,3 @@ while not found:
 
 
 print("Bravo! Vous avez trouvé le nombre.")
-print("Voici votre flag : ")
-f = open("flag.txt", "r")
-print(f.read())
